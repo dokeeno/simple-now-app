@@ -2,5 +2,6 @@
   "type": "npm",
   "env": {
     "NODE_ENV": "production"
+    
   }
 }
